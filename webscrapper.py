@@ -86,7 +86,6 @@ def saver(links, dates, author, path, m, y):
         file.close()
 
 
-each_link_finder('http://explosm.net/comics/5468/')
 #######__DRIVER__CODE__########
 file = open('input.txt', 'r')
 x = file.readlines()
